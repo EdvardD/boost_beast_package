@@ -6,7 +6,7 @@ install(
   )
 
 set(CPACK_GENERATOR DEB)
-set(CPACK_PACKAGE_NAME boost_beast)
+set(CPACK_PACKAGE_NAME boost-beast)
 set(CPACK_PACKAGE_VERSION "1.0.0")
 set(CPACK_PACKAGE_CONTACT davtyaneg@gmail.com)
 include(CPack)
